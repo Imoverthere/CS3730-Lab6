@@ -1,0 +1,11 @@
+int z;
+int main(void)
+begin
+	int x;
+	x=2;
+	if x<5
+		then x = x+1;
+	else
+		x = 5;
+	endif;
+end
